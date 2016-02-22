@@ -40,7 +40,7 @@ contains the latest entrust version for Laravel 4.
 
 In order to install Laravel 5 Entrust, just add
 
-    "apt-getyou/entrust": "dev-laravel-5"
+    "apt-getyou/entrust": "dev-master"
 
 to your composer.json. Then run `composer install` or `composer update`.
 
